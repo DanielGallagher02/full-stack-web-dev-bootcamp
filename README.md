@@ -1,6 +1,6 @@
 # Full-Stack Web Development Bootcamp Projects
 
-This repository contains the projects I developed while taking the **Complete Web Development Bootcamp** course. The projects cover various topics, including front-end, back-end, full-stack applications, and Web3 DApps development.
+This repository contains the projects I developed while taking the 62hr+ **Complete Web Development Bootcamp** course. The projects cover various topics, including front-end, back-end, full-stack applications, and Web3 DApps development.
 
 ## Table of Contents
 1. [Front-End Projects](#front-end-projects)
