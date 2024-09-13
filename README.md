@@ -42,3 +42,30 @@ These projects focus on blockchain and Web3 development, including DApps and NFT
 - PostgreSQL, MongoDB
 - Git, GitHub, Bash
 - Web3, Blockchain, Solidity, NFTs
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/DanielGallagher02/full-stack-web-dev-bootcamp.git
+   ```
+   
+2. Navigate to the project folder you want to run:
+   ```bash
+   cd frontend-projects/html-css
+   ```
+   
+3. If applicable, install dependencies (for Node.js-based projects):
+   ```bash
+   npm install
+   ```
+
+4. Start the project (for React or Node.js-based projects):
+   ```bash
+   npm start
+   ```
+
+For simple HTML/CSS/JavaScript projects, just open the index.html file in your browser.   
+   
+
+
+   
