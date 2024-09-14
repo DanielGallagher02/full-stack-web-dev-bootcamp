@@ -1,4 +1,4 @@
-# Full-Stack Web Development Bootcamp Projects
+# Full-Stack Web Development Bootcamp Projects - 2024
 
 This repository contains the projects I developed while taking the 62hr+ **Complete Web Development Bootcamp** course. The projects cover various topics, including front-end, back-end, full-stack applications, and Web3 DApps development.
 
