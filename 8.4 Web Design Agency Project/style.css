@@ -1,0 +1,114 @@
+/* Basic styling for the body element */
+body {
+  /* Setting the font to Poppins from Google Fonts */
+  font-family: "Poppins", sans-serif;
+
+  /* Adding margin around the body, except for the bottom */
+  margin: 50px 50px 0 50px;
+
+  /* Setting the background color */
+  background-color: #faf9f6;
+
+  /* Using flexbox to organize layout */
+  display: flex;
+  flex-direction: column;
+
+  /* Ensuring the minimum height of the body is 95% of the viewport height */
+  min-height: 95vh;
+}
+
+/* Main content will take up remaining space to allow footer at bottom */
+.main {
+  flex: 1;
+}
+
+/* Styling for the main heading (h1) */
+h1 {
+  /* Large font size for emphasis */
+  font-size: 5rem;
+}
+
+/* Styling for the footer */
+footer {
+  /* Align text to the right */
+  text-align: right;
+
+  /* Set text color to midnight blue */
+  color: midnightblue;
+}
+
+/* Styling for images inside the cards */
+.tile-image {
+  /* Set height for the images */
+  height: 200px;
+
+  /* Float the image to the left inside its container */
+  float: left;
+
+  /* Add margin on the right to create space between image and text */
+  margin-right: 50px;
+}
+
+/* General styling for cards */
+.card {
+  /* Set width to 45% of the container */
+  width: 45%;
+}
+
+/* Floating the left card to the left */
+.left {
+  float: left;
+}
+
+/* Floating the right card to the right */
+.right {
+  float: right;
+}
+
+/* Styling for the word "Creative" in the heading */
+.creative {
+  /* Color it midnight blue */
+  color: midnightblue;
+}
+
+/* Responsive styles for smaller screens (max width of 680px) */
+@media (max-width: 680px) {
+
+  /* Resize the logo for small screens */
+  .logo {
+    width: 100px;
+  }
+
+  /* Adjust font size for the main heading and center it */
+  h1 {
+    font-size: 3.5rem;
+    text-align: center;
+  }
+
+  /* Make the card take up full width on small screens */
+  .card {
+    width: 100%;
+    display: block;
+
+    /* Add space below each card */
+    margin-bottom: 30px;
+
+    /* Justify text to ensure better readability */
+    text-align: justify;
+  }
+
+  /* Adjust the card images to be more responsive */
+  .card img {
+    /* Add space below the image */
+    margin-bottom: 10px;
+
+    /* Ensure images take up full width */
+    width: 100%;
+
+    /* Display the image inline */
+    display: inline;
+
+    /* Adjust the image to cover the container */
+    object-fit: cover;
+  }
+}
