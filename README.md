@@ -1,14 +1,27 @@
 # Full-Stack Web Development Bootcamp Projects - 2024
 
-This repository contains the projects I developed while taking the **Complete Web Development Bootcamp** course. The projects cover various topics, including front-end, back-end, and full-stack applications.
+This repository contains the projects I developed while taking the **Complete Web Development Bootcamp**, the only course you need to learn to code and become a full-stack web developer. With over 150,000 ratings and a 4.8 average, this course is one of the highest-rated on Udemy!
+
+At 62+ hours, this course is the most comprehensive web development course available online. Even if you have zero programming experience, this course takes you from beginner to mastery. Here's why:
+
+- **Expert Instruction**: Taught by the lead instructor at the App Brewery, London's leading in-person programming bootcamp.
+- **Up-to-date Content**: The course has been updated to be 2024 ready, covering the latest tools and technologies used at large companies like Apple, Google, and Netflix.
+- **Real-world Projects**: The course doesn't cut any corners; it includes beautiful animated explanation videos and tens of real-world projects which you will get to build.
+- **Comprehensive Curriculum**: Developed over four years, with comprehensive student testing and feedback.
+- **Proven Success**: Over a million students have learned to code with this course, many going on to become professional developers or start their own tech startups.
+- **Cost-effective Learning**: You'll save yourself over $12,000 by enrolling, but still get access to the same teaching materials and curriculum as the in-person programming bootcamp.
+- **Constant Updates**: The course is constantly updated with new content, projects, and modules determined by students—that's you!
 
 ## Table of Contents
 
 1. [Front-End Projects](#front-end-projects)
 2. [Back-End Projects](#back-end-projects)
 3. [Full-Stack Projects](#full-stack-projects)
-4. [Technologies](#technologies)
-5. [How to Run](#how-to-run)
+4. [Technologies Covered](#technologies-covered)
+5. [Course Highlights](#course-highlights)
+6. [Testimonials](#testimonials)
+7. [Course Curriculum](#course-curriculum)
+8. [How to Run](#how-to-run)
 
 ## Front-End Projects
 
@@ -36,15 +49,109 @@ These projects combine front-end and back-end technologies to create full-stack 
 - **[Authentication & Security Practice](link_to_project)** – A project focusing on user authentication, encryption, hashing, and session management.
 - **[Weather Journal](link_to_project)** – A web app that fetches weather data from an external API and stores user entries.
 
-## Technologies
+## Technologies Covered
 
-- **Front-End**: HTML5, CSS3, Bootstrap, JavaScript ES6, jQuery, React.js
-- **Back-End**: Node.js, Express.js, EJS
-- **Databases**: MongoDB, Mongoose
-- **Authentication**: Passport.js, OAuth 2.0, bcrypt
-- **Version Control**: Git, GitHub
-- **Deployment**: Heroku, MongoDB Atlas
-- **Other Tools**: Unix Command Line, Git Bash, RESTful APIs
+Throughout this comprehensive course, the following tools and technologies were covered:
+
+- **Front-End Development**:
+  - HTML5
+  - CSS3
+  - Flexbox
+  - Grid
+  - Bootstrap 5
+  - JavaScript ES6
+  - DOM Manipulation
+  - jQuery
+  - React.js and React Hooks
+
+- **Back-End Development**:
+  - Node.js
+  - NPM
+  - Express.js
+  - EJS
+  - RESTful APIs
+  - Databases (SQL, PostgreSQL, MongoDB)
+  - Mongoose
+
+- **Authentication & Security**:
+  - Passport.js
+  - OAuth 2.0
+  - bcrypt
+  - Encryption and Hashing
+  - Sessions and Cookies
+
+- **Version Control & Deployment**:
+  - Git and GitHub
+  - GitHub Pages
+  - Heroku Deployment
+  - MongoDB Atlas
+
+- **Other Tools**:
+  - Unix Command Line (Bash)
+  - Git Bash
+  - Web Design Principles
+  - Web3 Development Basics
+  - Blockchain Technology
+  - Token Contract Development
+  - NFT Minting, Buying, and Selling Logic
+
+## Course Highlights
+
+- **Build 32+ Real-World Projects**: By the end of this course, you will have built over 32 websites and web applications that you can showcase to potential employers.
+- **Comprehensive Curriculum**: The course covers everything from the basics of web development to advanced topics like backend development, databases, authentication, and even Web3 development.
+- **Career-Ready Skills**: You'll be ready to build any website you can dream of, work as a freelance web developer, or start your own tech startup.
+- **Expert Instruction**: Learn from Angela Yu, the lead instructor at the App Brewery, London's leading in-person programming bootcamp.
+- **Professional Developer Best Practices**: The course emphasizes clean coding, version control, and deployment strategies.
+
+## Testimonials
+
+_"Angela is just incredible, awesome and just fantastic in this course. I've never had such an instructor; detailed in every aspect of the course, gives precise explanations, gives you the anxiety to learn etc."_
+— Ekeu Monkam Ulrich
+
+_"Angela is very thorough without ever being boring. I've taken MANY online courses in my life including my Bachelor's and Master's degrees. She is by far the best instructor I've ever had."_
+— J Carlucci
+
+_"An amazing course, perfect for absolute beginners at the start of their coding journey! Angela is an amazing tutor and can explain in the most simple and comprehensible way even complex coding notions."_
+— Zoe Moyssoglou
+
+## Course Curriculum
+
+### Web Development Fundamentals
+
+- Understanding how websites and the internet work
+- Introduction to HTML5 and CSS3
+- Git, GitHub, and version control
+- Debugging and troubleshooting skills
+
+### Front-End Development
+
+- Advanced CSS and layout techniques (Flexbox, Grid)
+- Responsive design with Bootstrap 5
+- JavaScript ES6 and DOM manipulation
+- jQuery and interactive web components
+- React.js and React Hooks for building dynamic UIs
+
+### Back-End Development
+
+- Server-side programming with Node.js and Express.js
+- Building RESTful APIs
+- Database management with SQL, PostgreSQL, and MongoDB
+- EJS templating
+- Authentication and security best practices
+
+### Full-Stack Development
+
+- Combining front-end and back-end technologies
+- Implementing user authentication and authorization
+- Deploying applications to Heroku and GitHub Pages
+- Working with third-party APIs
+
+### Web3 and Blockchain Basics
+
+- Introduction to Web3 and blockchain technology
+- Creating token contracts
+- NFT minting, buying, and selling logic
+- Deploying decentralized applications (DApps)
 
 ## How to Run
 
@@ -57,13 +164,13 @@ For Node.js applications:
    ```bash
    npm install
    ```
-   
-3. Start the Application
+
+3. Start the application:
    ```bash
    node app.js
-   ```
+   ```   
 
-4. Open your browser and go to http://localhost:3000   
+5. Open your browser and go to http://localhost:3000   
 
 
    
