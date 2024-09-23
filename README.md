@@ -26,7 +26,7 @@ At 62+ hours, this course is the most comprehensive web development course avail
 
 These projects showcase front-end development skills using HTML, CSS, JavaScript, and React.
 
-- **[Personal Portfolio Website](Capstone Project 1)** – A static website built with HTML and CSS, demonstrating fundamental web design principles.
+- **[Personal Portfolio Website](Capstone_Project_1)** – A static website built with HTML and CSS, demonstrating fundamental web design principles.
 - **[TinDog](link_to_project)** – A responsive website using Bootstrap to create a mock dating app for dogs.
 - **[Drum Kit](link_to_project)** – An interactive web page that plays drum sounds on key presses using JavaScript and the DOM.
 - **[Simon Game](link_to_project)** – A memory game built with JavaScript and jQuery, illustrating event handling and game logic.
