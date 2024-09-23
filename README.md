@@ -19,9 +19,8 @@ At 62+ hours, this course is the most comprehensive web development course avail
 3. [Full-Stack Projects](#full-stack-projects)
 4. [Technologies Covered](#technologies-covered)
 5. [Course Highlights](#course-highlights)
-6. [Testimonials](#testimonials)
-7. [Course Curriculum](#course-curriculum)
-8. [How to Run](#how-to-run)
+6. [Course Curriculum](#course-curriculum)
+7. [How to Run](#how-to-run)
 
 ## Front-End Projects
 
@@ -102,17 +101,6 @@ Throughout this comprehensive course, the following tools and technologies were 
 - **Career-Ready Skills**: You'll be ready to build any website you can dream of, work as a freelance web developer, or start your own tech startup.
 - **Expert Instruction**: Learn from Angela Yu, the lead instructor at the App Brewery, London's leading in-person programming bootcamp.
 - **Professional Developer Best Practices**: The course emphasizes clean coding, version control, and deployment strategies.
-
-## Testimonials
-
-_"Angela is just incredible, awesome and just fantastic in this course. I've never had such an instructor; detailed in every aspect of the course, gives precise explanations, gives you the anxiety to learn etc."_
-— Ekeu Monkam Ulrich
-
-_"Angela is very thorough without ever being boring. I've taken MANY online courses in my life including my Bachelor's and Master's degrees. She is by far the best instructor I've ever had."_
-— J Carlucci
-
-_"An amazing course, perfect for absolute beginners at the start of their coding journey! Angela is an amazing tutor and can explain in the most simple and comprehensible way even complex coding notions."_
-— Zoe Moyssoglou
 
 ## Course Curriculum
 
