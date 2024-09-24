@@ -1,0 +1,134 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Container for centering content */
+.container {
+    width: 80%;
+    margin: 20px auto;
+    overflow: hidden;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Header styling */
+h1 {
+    color: #2c3e50;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Section heading styling */
+h2 {
+    color: #34495e;
+    border-bottom: 2px solid #2980b9;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+/* List styling */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+/* About and Contact page link styling */
+a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* About page specific styling */
+.about p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+/* Skills list styling */
+.skills, .certifications {
+    margin-bottom: 20px;
+}
+
+.skills li, .certifications li {
+    background-color: #ecf0f1;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}
+
+/* Contact page styling */
+.contact-info {
+    font-size: 18px;
+    line-height: 1.8;
+    margin: 15px 0;
+}
+
+.contact-info li {
+    margin-bottom: 8px;
+}
+
+.contact-info strong {
+    color: #2980b9;
+}
+
+/* Styling for external link buttons */
+.contact-info a, .about a {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #2980b9;
+    color: white;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.contact-info a:hover, .about a:hover {
+    background-color: #1e6a9b;
+}
+
+/* Styling for the 'Follow Me' section */
+.follow-me li {
+    margin-top: 10px;
+}
+
+/* Responsive design for mobile devices */
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 22px;
+    }
+
+    p, ul li {
+        font-size: 16px;
+    }
+}
